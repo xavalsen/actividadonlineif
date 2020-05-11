@@ -1,1 +1,0 @@
-var mivariable = 1;
